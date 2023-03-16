@@ -1,0 +1,13 @@
+C:\Users\faiza\source\repos\justprac\bin\Debug\justprac.exe.config
+C:\Users\faiza\source\repos\justprac\bin\Debug\justprac.exe
+C:\Users\faiza\source\repos\justprac\bin\Debug\justprac.pdb
+C:\Users\faiza\source\repos\justprac\obj\Debug\justprac.csproj.AssemblyReference.cache
+C:\Users\faiza\source\repos\justprac\obj\Debug\justprac.csproj.SuggestedBindingRedirects.cache
+C:\Users\faiza\source\repos\justprac\obj\Debug\justprac.Form1.resources
+C:\Users\faiza\source\repos\justprac\obj\Debug\justprac.Form2.resources
+C:\Users\faiza\source\repos\justprac\obj\Debug\justprac.Form3.resources
+C:\Users\faiza\source\repos\justprac\obj\Debug\justprac.Properties.Resources.resources
+C:\Users\faiza\source\repos\justprac\obj\Debug\justprac.csproj.GenerateResource.cache
+C:\Users\faiza\source\repos\justprac\obj\Debug\justprac.csproj.CoreCompileInputs.cache
+C:\Users\faiza\source\repos\justprac\obj\Debug\justprac.exe
+C:\Users\faiza\source\repos\justprac\obj\Debug\justprac.pdb
